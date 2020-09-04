@@ -7,7 +7,7 @@ This project is developed based on the assessment file shared via. mail by Infob
   - Postman is recommended for testing
 
 You can also:
-  - Use also use browsable api
+  - use browsable api
   - any other API interacting tool 
 
 ### Used Modules/Packages
