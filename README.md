@@ -12,6 +12,7 @@ You can also:
 
 ### Used Modules/Packages
 
+* Django 
 * Django Rest Framework 
 * django-filter
 * Psycopg
